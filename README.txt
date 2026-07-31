@@ -28,4 +28,4 @@ Ce dépôt fournit le code des **cas tests fonctionnels** validés au cours du p
 
 ## Auteur
 
-Eytanael Elleb Camille Pascal— Master 2 Ingénierie Mathématique, option Ingénierie Numérique.
+Eytanael Elleb, Camille Pascal — Master 2 Ingénierie Mathématique, option Ingénierie Numérique.
